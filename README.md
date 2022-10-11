@@ -21,9 +21,12 @@
 ### With that all being said, if i could go back in time to when i first started learning software engineering, this is the order in which  i would learn everything to where everything would make sense and piece together perfectly (I attached links to where you could learn each section header). After learning the core/needed skills, create projects and portfolios and network with people online like linkedin.
 
 
+The bullet points with an asterisk `*` is considered vital for everyday work as a software engineer and getting that first job; `&` is considered helpful to know and something to be aware of; `%` means is isn't too useful and you can go without as far as getting that first job.
+
+
 
 1. ### Quick History
-- What is computer Science and what is a computer?
+- What is computer Science and what is a computer? `*`
 - main functions of a computer: take in input, remember things, produce an output
 - how did/was it created?
 - human computers
@@ -44,17 +47,17 @@
 
 
 2. ### Discrete Math
-- logic notation
-- logic proofs
-- permutations
-- combinations
-- set theory
-- graph theory
+- logic notation `%`
+- logic proofs `*`
+- permutations `&`
+- combinations `&`
+- set theory `&`
+- graph theory `&`
 - tree theory
 - matrix theory
-- boolean algebra
-- boolean logic
-- truth tables/karnaugh map
+- boolean algebra `*`
+- boolean logic `&`
+- truth tables/karnaugh map `&`
 - math functions
 - laws for boolean logic 
 - SUMMARY/KEY TAKE-AWAYS
@@ -71,16 +74,16 @@
 
 3. ### Computer Architecture
 - number system(s)
-- base 2 number system (binary), bits, bytes, etc
-- floating points and fixed points in binary 
-- signed integer
-- how memory works, memory address
+- base 2 number system (binary), bits, bytes, etc 
+- floating points and fixed points in binary `*`
+- signed integer `&`
+- how memory works, memory address `*`
 - circuit/motherboard, power supply, system bus
 - transistors, logic gates
-- ROM (Read Only Memory)
-- RAM (Random Access Memory)
-- Hard Drive, Cache
-- fetching/storing memory (cache-hit, cache-miss)
+- ROM (Read Only Memory) 
+- RAM (Random Access Memory) `*`
+- Hard Drive, Cache `*`
+- fetching/storing memory (cache-hit, cache-miss) `&`
 - Instruction set and Op Code 
 - CPU (Central Processing Unit): ALU, CU, Register
 - Input/Output
@@ -96,10 +99,10 @@
   - https://study.com/academy/course/computer-science-306-computer-architecture.html
   - https://www.udemy.com/course/computer-organization-and-architecture-course-masterclass/
 
-4. ### Programming Intro
+4. ### Programming Intro `*`
 - what is programming, what are programming languages and why they exist
 - the relation to math and computing (computers use math concepts, like variables)
-- data types
+- data types 
 - conditions
 - loops
 - functions
@@ -117,7 +120,7 @@
   - https://www.udemy.com/course/the-complete-coding-for-beginners-course/
   - https://study.com/academy/course/computer-science-109-introduction-to-programming.html
 
-5. ### Data Structures
+5. ### Data Structures `*`
 - arrays
 - lists/dynamic arrays
 - multi-dimensional arrays
@@ -141,7 +144,7 @@
   - https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/
   - https://study.com/academy/course/computer-science-201-data-structures.html
 
-6. ### Algorithms
+6. ### Algorithms `*`
 - analysis of algorithms: asymptotic
 - time and space complexity
 - orders of growth
@@ -164,7 +167,7 @@
   - https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/ 
   - https://www.edx.org/course/data-structures-algorithms-i-arraylists-linkedlists-stacks-and-queues?index=product&queryID=9d7b4df29f303c8389e9b22085818416&position=3
 
-7. ### Computer Graphics
+7. ### Computer Graphics `%`
 - GUI (Graphical user interface)
 - RGB and pixels
 - how graphics are drawn
@@ -175,7 +178,7 @@
 - CERTIFICATE COURSES:
   - https://www.edx.org/course/computer-graphics-2?index=product&queryID=0e2250dff6825f5ce4e5662b246789fd&position=1
 
-8. ### Programming Language theory & Design
+8. ### Programming Language theory & Design `*`
 - syntax
 - semantics
 - run time
@@ -201,17 +204,17 @@
 9. ### OS (Operating system)
 - what is OS and why it's needed
 - types of OS and purposes
-- processes and threads
-- scheduling and interrupts
-- multi-processing and CPU cores
-- synchronization and dead-lock
+- processes and threads `*`
+- scheduling and interrupts `&`
+- multi-processing and CPU cores `*`
+- synchronization and dead-lock `*`
 - memory management and virtual memory 
-- disk management / scheduling, defragmentation
+- disk management / scheduling, defragmentation `&`
 - file management and file system
-- peripherals and drivers
+- peripherals and drivers `&`
 - kernal
-- unix/linux
-- CLI (command line interface)
+- unix/linux 
+- CLI (command line interface) `*`
 - SUMMARY/KEY TAKE-AWAYS
   - the software program that manages physical resources and other software programs
 - RESOURCES:
@@ -222,10 +225,10 @@
   - https://study.com/academy/course/computer-science-105-introduction-to-operating-systems.html
   - https://study.com/academy/course/computer-science-305-operating-systems.html
 
-10. ### Compiler
+10. ### Compiler `&`
 - what is a compiler and why it is needed
-- compiler vs. interpretor
-- compilation process (tokenization, lexical analysis, semantic analysis, etc)
+- compiler vs. interpretor `*`
+- compilation process (tokenization, lexical analysis, semantic analysis, etc) 
 - how a compiler is created 
 - formal language, grammar and BNF (baukus-naur form)
 - yacc and lexx
@@ -243,14 +246,14 @@
 
 12. ### Computer Networks
 - What is a computer network and why?
-- OSI model/layers
+- OSI model/layers `*`
 - how computers connect and communicate (packets, network cards, switches, routers)
-- protocols (HTTP, FTP, SMTP, etc)
-- http, client/server communication model and how websites work
-- application layer of OSI model
+- protocols (HTTP, FTP, SMTP, etc) `*`
+- http, client/server communication model and how websites work `*`
+- application layer of OSI model `*`
 - what is a client
 - what is a server
-- types of servers
+- types of servers `&`
 - SUMMARY/KEY TAKE-AWAYS
   - computers have hardware and software for connecting and communicating with one another to send/receive instructions
 - RESOURCES:
@@ -259,7 +262,7 @@
   - https://en.wikipedia.org/wiki/Computer_network
 
 
-13. ### Front-End Web Development: theory, purpose and basics
+13. ### Front-End Web Development: theory, purpose and basics `*`
 - what is front end web Development, why
 - HTML
 - CSS
@@ -267,7 +270,7 @@
 - what is a browser
 
 
-14. ### Front-End Web Development: Deep Dive
+14. ### Front-End Web Development: Deep Dive `*`
 - how the browser works
 - how browsers load and process/renders website resources and information (scripts, fonts, html, css, images, videos, etc)
 - browser animation frame
@@ -278,7 +281,7 @@
 - script tag async defer attributes
 - speeding up page loads
 - web fonts
-- accessibility 
+- accessibility `&`
 - UI libraries (bootstrap, bulma, tailwind, materialize/material ui)
 - UI Frameworks (Angular, React)
 - UI/UX design: principles and fundamentals
@@ -287,17 +290,17 @@
 - testing with unit tests (Jasmine.JS)
 
 
-15. ### Tools for Development
+15. ### Tools for Development `*`
 - version control (git)
 - IDEs (VsCode, Intellij, etc)
 - software management (homebrew for mac os, chocolately for windows)
 
 
-16. ### Back-End Web Development: theory, purpose and basics
+16. ### Back-End Web Development: theory, purpose and basics `*`
 - what is backend and why?
 - tools for backend development (database, file system, other servers)
 
-17. ### Back-End Web Development: Deep Dive
+17. ### Back-End Web Development: Deep Dive `*`
 - Languages: Java, Python, JavaScript (Node.js), Ruby, PHP
 - Frameworks for web applications: Express.js, Springboot, Django, Ruby on Rails, Laravel
 - Routing, Requests and Responses
@@ -316,14 +319,13 @@
 - Web Security (CSRF, CORS, etc)
 - APIs & RESTful API design
 
-18. ### Cloud Services
-- what is the "Cloud", the future of cloud technology and services,
-- top service providers (Amazon Web Services, Microsoft Azure, Google Cloud Platform)
-- Development 
-- Core cloud services 
+18. ### Cloud Services `&`
+- what is the "Cloud", the future of cloud technology and services `*`
+- top service providers (Amazon Web Services, Microsoft Azure, Google Cloud Platform) 
+- Core cloud services `&`
  
 
-19. ### Software Engineering: Skills, Technique, Resources 
+19. ### Software Engineering: Skills, Technique, Resources `*`
 - techniques for writing better code 
 - techniques for code organization and reusability
 - online resources (books, stackoverflow)
@@ -343,7 +345,7 @@
 - understand design decisions 
 
 
-20. ### Subject Matter Expert (SME):
+20. ### Subject Matter Expert (SME) `*`
 - understanding the apps and systems you work with and the purpose(s) of them
 - using prior knowledge and understanding to figure out solutions to problems
 - types of problems: data vs. behavior/functionality
