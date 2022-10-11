@@ -3,30 +3,22 @@
 
 ### Hello World! I'm **Ryan M. Waite** and I'm a software engineer based in Maryland, USA. I graduated in December 2021 with a bachelors of science in computer science from UMGC (University of Maryland Global Campus) and have been working in the tech field since February 2016.
 
-<br>
 
 ### Although I do have a CS degree now, I learned much of computer science outside of college from various resources: Udacity, Udemy, YouTube, online forums, websites, job experience, former coworkers/managers/leads.
 
-<br>
 
 ### My tech career/journey starts back in March 2015 when I joined a tech program called **Year Up**. It's a non-profit workforce development program for helping young adults enter the tech field by providing training and internships. During my time there, the program did not teach web development BUT they partnered with another program that did: Udacity. Year Up gave me a scholarship to learn with Udacity, which is an online learning platform; that scholarship was for Udacity's **Front-End Development Nanodegree**, it was the first thing I learned that got me into the field. 
 
-<br>
 
 ### Over the years, I learned the different areas of programming/software-engineering/computer-science while at work and on my free-time and in a scatters fashion; there was no real order to the things I was learning and I didn't know the things I should know. My second job in Reston, Virginia is what really challenged me and made me realize I didn't know enough to be a solid, skilled software engineer; I was still a novice. In order to stay job relevant and because I loved Computer Science to do so, I decided to go to school for it, despite already being in the field already.
 
-<br>
 
 ### After finishing my degree (which I did online), I realize that for most colleges, online college classes are no different, and dare I say, no better than other modern courses you would find on platforms like Udacity, Udemy, Coursera, Edx, etc. Had I been on-campus for my core classes where I actually got to build circuit boards and other things, I would have learned and understood the practical side of things more. The honest truth is, these classes teach by just giving you a pdf or some book to read and just take quizzes/exams/projects/labs on; it is heavily theory-based knowledge. There is nothing online college courses teach that you cannot find for free somewhere online that do just a good job teaching, if not better.
 
-<br>
 
 ### A computer science program equips you with a breadth of skills and knowledge and everything you need to know about computers/computing in order for you to get into any area of computing: web development, game development, mobile app development, internet of things. However, most people get a CS degree just to get a job for web development and work at a junior/mid level, which still pays a considerable amount; it is usually managers or people that have a serious/deep passion that get the degree. The skills in the degree allows you to create/invent/advance the science and body of knowledge of computers and computing, and people aren't doing that at majority of companies because majority of companies don't need that kind of work done for their applications, because much of computing is already established. Computer Scientists create/invent/advance the body of knowledge and machines/tools; software engineers use what is already created/invented to make software applications, and I honestly don't thing a degree is needed for the general use case.
 
 ### With that all being said, if i could go back in time to when i first started learning software engineering, this is the order in which  i would learn everything to where everything would make sense and piece together perfectly (I attached links to where you could learn each section header). After learning the core/needed skills, create projects and portfolios and network with people online like linkedin.
-
-
-<br>
 
 
 
@@ -363,7 +355,7 @@
 
 <br>
 
-## General Resources
+### General Resources
 - https://www.tutorialspoint.com/computer_science_tutorials.htm
 - https://www.w3schools.com/
 - https://www.geeksforgeeks.org/
@@ -372,7 +364,7 @@
 
 <br>
 
-## Online Learning Platforms
+### Online Learning Platforms
 - https://alison.com/courses?tag=programming&language=en
 - https://www.udemy.com/
 - http://udacity.com/
