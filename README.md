@@ -1,11 +1,11 @@
 # Computer Science & Software Engineering - My Self Taught Guide To Becoming A Job-Ready Software Engineer
 
 
-## Hello World! I'm **Ryan M. Waite** and I'm a software engineer based in Maryland, USA. I graduated in December 2021 with a bachelors of science in computer science from UMGC (University of Maryland Global Campus) and have been working in the tech field since February 2016.
+### Hello World! I'm **Ryan M. Waite** and I'm a software engineer based in Maryland, USA. I graduated in December 2021 with a bachelors of science in computer science from UMGC (University of Maryland Global Campus) and have been working in the tech field since February 2016.
 
 <br>
 
-## Although I do have a CS degree now, I learned much of computer science outside of college from various resources: Udacity, Udemy, YouTube, online forums, websites, job experience, former coworkers/managers/leads.
+### Although I do have a CS degree now, I learned much of computer science outside of college from various resources: Udacity, Udemy, YouTube, online forums, websites, job experience, former coworkers/managers/leads.
 
 <br>
 
@@ -23,7 +23,7 @@
 
 ### A computer science program equips you with a breadth of skills and knowledge and everything you need to know about computers/computing in order for you to get into any area of computing: web development, game development, mobile app development, internet of things. However, most people get a CS degree just to get a job for web development and work at a junior/mid level, which still pays a considerable amount; it is usually managers or people that have a serious/deep passion that get the degree. The skills in the degree allows you to create/invent/advance the science and body of knowledge of computers and computing, and people aren't doing that at majority of companies because majority of companies don't need that kind of work done for their applications, because much of computing is already established. Computer Scientists create/invent/advance the body of knowledge and machines/tools; software engineers use what is already created/invented to make software applications, and I honestly don't thing a degree is needed for the general use case.
 
-## With that all being said, if i could go back in time to when i first started learning software engineering, this is the order in which  i would learn everything to where everything would make sense and piece together perfectly (I attached links to where you could learn each section header). After learning the core/needed skills, create projects and portfolios and network with people online like linkedin.
+### With that all being said, if i could go back in time to when i first started learning software engineering, this is the order in which  i would learn everything to where everything would make sense and piece together perfectly (I attached links to where you could learn each section header). After learning the core/needed skills, create projects and portfolios and network with people online like linkedin.
 
 
 <br>
