@@ -25,7 +25,7 @@ The bullet points with an asterisk `*` is considered vital for everyday work as 
 
 
 
-1. ### Quick History
+1. ### Quick History (1-2 days)
 - What is computer Science and what is a computer? `*`
 - main functions of a computer: take in input, remember things, produce an output
 - how did/was it created?
@@ -37,16 +37,18 @@ The bullet points with an asterisk `*` is considered vital for everyday work as 
 - transition to modern digital computer
 - SUMMARY/KEY TAKE-AWAYS
   - people used to be called computers
-  - people make 
+  - people made devices/machines to do the computations for us
 - RESOURCES:
   - https://cs.uwaterloo.ca/~shallit/Courses/134/history.html
   - https://en.wikipedia.org/wiki/History_of_computer_science
   - https://www.tutorialspoint.com/basics_of_computers/index.htm
 - CERTIFICATE COURSES:
   - https://www.coursera.org/learn/how-computers-work
+- What to practice:
+  - n/a; just get a brief undestanding of the history of numbers and computing
 
 
-2. ### Discrete Math
+2. ### Discrete Math (4-5 days)
 - logic notation `%`
 - logic proofs `*`
 - permutations `&`
@@ -70,6 +72,8 @@ The bullet points with an asterisk `*` is considered vital for everyday work as 
   - https://study.com/academy/course/math-108-discrete-mathematics.html
   - https://www.coursera.org/learn/mathematics-for-computer-science
   - https://www.udemy.com/topic/discrete-math/
+- What to practice:
+  - solving truth tables to understand boolean logic: https://webspace.ship.edu/jwcraw/dmrev2dev/Chapter1/1-3-truthTables.html
 
 
 3. ### Computer Architecture
@@ -98,6 +102,9 @@ The bullet points with an asterisk `*` is considered vital for everyday work as 
   - https://www.edx.org/course/computer-architecture?index=product&queryID=4ceddb1a936ef198297552c9f308d115&position=1
   - https://study.com/academy/course/computer-science-306-computer-architecture.html
   - https://www.udemy.com/course/computer-organization-and-architecture-course-masterclass/
+- What to practice:
+  - if you want, you can use a program called **Logism** to practice creating your own circuit boards/CPUs/etc - http://www.cburch.com/logisim/
+
 
 4. ### Programming Intro `*`
 - what is programming, what are programming languages and why they exist
@@ -119,6 +126,8 @@ The bullet points with an asterisk `*` is considered vital for everyday work as 
   - https://www.edx.org/course/introduction-to-computer-science-and-programming-7?index=product&queryID=da9ac1b037d1d6097ba98aca3a95aac4&position=3
   - https://www.udemy.com/course/the-complete-coding-for-beginners-course/
   - https://study.com/academy/course/computer-science-109-introduction-to-programming.html
+- What to practice:
+  - practice writing programs in your preferred programming. Most start off with Python since it is the easiest to learn with but i recommend JavaScript and/or Java
 
 5. ### Data Structures `*`
 - arrays
@@ -143,6 +152,9 @@ The bullet points with an asterisk `*` is considered vital for everyday work as 
   - https://www.edx.org/course/data-structures-fundamentals?index=product&queryID=7149ce17679c1a3b94b29d45389eb270&position=5
   - https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/
   - https://study.com/academy/course/computer-science-201-data-structures.html
+- What to practice:
+  - use a programming language and try creating/using each of the data structures. learn about dot notation and bracket notation and working with objects.
+  
 
 6. ### Algorithms `*`
 - analysis of algorithms: asymptotic
@@ -166,6 +178,10 @@ The bullet points with an asterisk `*` is considered vital for everyday work as 
 - CERTIFICATE COURSES:
   - https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/ 
   - https://www.edx.org/course/data-structures-algorithms-i-arraylists-linkedlists-stacks-and-queues?index=product&queryID=9d7b4df29f303c8389e9b22085818416&position=3
+- What to practice:
+  - try to memorize the orders of growth from fastest to slowest
+  - write programs using different algorithms on different data structures
+  - Use sites like LeetCode and AlgoExpert
 
 7. ### Computer Graphics `%`
 - GUI (Graphical user interface)
@@ -177,6 +193,8 @@ The bullet points with an asterisk `*` is considered vital for everyday work as 
   - https://en.wikipedia.org/wiki/Computer_graphics
 - CERTIFICATE COURSES:
   - https://www.edx.org/course/computer-graphics-2?index=product&queryID=0e2250dff6825f5ce4e5662b246789fd&position=1
+- What to practice:
+  - nothing to really practice here
 
 8. ### Programming Language theory & Design `*`
 - syntax
@@ -200,6 +218,8 @@ The bullet points with an asterisk `*` is considered vital for everyday work as 
   - http://aleteya.cs.buap.mx/~jlavalle/papers/books_on_line/John%20Wiley%20&%20Sons%20-%20Programming%20Language%20Design%20Concepts.pdf
 - CERTIFICATE COURSES:
   - https://www.coursera.org/learn/programming-languages
+- What to practice:
+  - Try using different languages to get a feel for how it works
 
 9. ### OS (Operating system)
 - what is OS and why it's needed
@@ -224,6 +244,10 @@ The bullet points with an asterisk `*` is considered vital for everyday work as 
 - CERTIFICATE COURSES:
   - https://study.com/academy/course/computer-science-105-introduction-to-operating-systems.html
   - https://study.com/academy/course/computer-science-305-operating-systems.html
+- What to practice:
+  - write programs that use I/O such as network requests or the file system
+  - on mac, open Activity Monitor to see live examples of programs
+  - on windows, open task managers to see processes, memory and etc
 
 10. ### Compiler `&`
 - what is a compiler and why it is needed
@@ -239,6 +263,8 @@ The bullet points with an asterisk `*` is considered vital for everyday work as 
   - https://www.geeksforgeeks.org/introduction-of-compiler-design/
 - CERTIFICATE COURSES:
   - https://www.edx.org/course/compilers?index=product&queryID=41f7cd7bb7f304f84acdc77c83156684&position=2 
+- What to practice:
+  - You can try to create your own languate using Flex and Bison
 
 11. ### Computer Science Recap
 - computers (computing machine) are basically a bunch of light/electric switches where the order of switches have a specific meaning/instruction
@@ -260,6 +286,9 @@ The bullet points with an asterisk `*` is considered vital for everyday work as 
   - https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/
   - https://www.geeksforgeeks.org/layers-of-osi-model/
   - https://en.wikipedia.org/wiki/Computer_network
+- What to practice:
+  - write a program that makes network requests
+  - open the network tab in a Browser's dev tools and analze network requests
 
 
 13. ### Front-End Web Development: theory, purpose and basics `*`
@@ -268,6 +297,8 @@ The bullet points with an asterisk `*` is considered vital for everyday work as 
 - CSS
 - JavaScript
 - what is a browser
+- What to practice:
+  - create pages and basic websites with html and css
 
 
 14. ### Front-End Web Development: Deep Dive `*`
@@ -288,17 +319,26 @@ The bullet points with an asterisk `*` is considered vital for everyday work as 
 - Web peformance
 - Debugging front-end problems
 - testing with unit tests (Jasmine.JS)
+- What to practice:
+  - learn a framework like React
+  - learn each tab in the dev tools
+  - build web pages with ui libraries like bootstrap
 
 
 15. ### Tools for Development `*`
 - version control (git)
 - IDEs (VsCode, Intellij, etc)
 - software management (homebrew for mac os, chocolately for windows)
+- What to practice:
+  - install VSCode, Intellij CE and get familiar writing programs in it
+  - practice using git on CLI
 
 
 16. ### Back-End Web Development: theory, purpose and basics `*`
 - what is backend and why?
 - tools for backend development (database, file system, other servers)
+- What to practice:
+  - create a demo server program. Python and NodeJS are good options
 
 17. ### Back-End Web Development: Deep Dive `*`
 - Languages: Java, Python, JavaScript (Node.js), Ruby, PHP
@@ -318,11 +358,15 @@ The bullet points with an asterisk `*` is considered vital for everyday work as 
 - Cryptography
 - Web Security (CSRF, CORS, etc)
 - APIs & RESTful API design
+- What to practice:
+  - create a full stack application that uses both front end and back end technologies
 
 18. ### Cloud Services `&`
 - what is the "Cloud", the future of cloud technology and services `*`
 - top service providers (Amazon Web Services, Microsoft Azure, Google Cloud Platform) 
 - Core cloud services `&`
+- What to practice:
+  - learn about AWS; check out their free tier and use things under the "Always FREE" option/services
  
 
 19. ### Software Engineering: Skills, Technique, Resources `*`
@@ -343,6 +387,9 @@ The bullet points with an asterisk `*` is considered vital for everyday work as 
 - learn how to apply theoretical/prior/foundational knowledge to solve problems
 - dependencies concepts: application dependencies on other libraries/platforms/services/frameworks/etc
 - understand design decisions 
+- What to practice:
+  - create projects demonstrating everything you learned; build a portfolio
+  - contribute to open source projects/libraries
 
 
 20. ### Subject Matter Expert (SME) `*`
@@ -350,6 +397,8 @@ The bullet points with an asterisk `*` is considered vital for everyday work as 
 - using prior knowledge and understanding to figure out solutions to problems
 - types of problems: data vs. behavior/functionality
 - proper approach to testing and troubleshooting
+- What to practice:
+  - 
 
 
 
@@ -362,6 +411,7 @@ The bullet points with an asterisk `*` is considered vital for everyday work as 
 - https://www.w3schools.com/
 - https://www.geeksforgeeks.org/
 - https://developer.mozilla.org/en-US/
+- https://www.youtube.com/watch?v=tpIctyqH29Q&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye
 
 
 <br>
